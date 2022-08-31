@@ -13,13 +13,4 @@
         <maven.compiler.target>15</maven.compiler.target>
     </properties>
 
-    <modules>
-        <module>Spring-Cloud</module>
-        <module>Spring-Reactive</module>
-        <module>Simple-Spring</module>
-        <module>Spring-Auth</module>
-        <module>Microservices</module>
-        <module>Communication</module>
-        <module>Spring-Data</module>
-    </modules>
 </project>
